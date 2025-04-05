@@ -10,17 +10,20 @@ permalink: /article/21jw92tk/
 
 # Witch on the Holy Night (Aniplex TL)  
 
-The pages below are EN/JP script files for Witch on the Holy Night, officially localized by Aniplex.   
+魔法使之夜中日互译，中文翻译来自 「阿喵今天睡过头了吗」 自译练习，感谢贡献~
 
-[Be sure to support the release!](https://www.amazon.com/dp/B0BL5XBFHJ/)  
+网站及日语文本、图片参考自[tri-hermes](https://github.com/r-grandorder/tri-hermes)
 
-## Chapter Selection  
+[游戏购买链接！](https://www.amazon.com/dp/B0BL5XBFHJ/)  
 
-:::tip Note  
-Currently, sub-titles are not labeled, the entire chapter is dumped onto a page. In the future, each chapter page will be divided up into their respective sub-chapter sections.  
-:::  
+## 章节选择
+
+## ···已翻译···
 
 * [Chapter 1: Strange One](Mahoyo/Chapter1.md)  
+
+## ···少女施工中···
+
 * [Chapter 1.5: Seven Days of Spinning](Mahoyo/Chapter1-5.md)  
 * [Chapter 2: Little happening of last night](Mahoyo/Chapter2.md)  
 * [Chapter 3: night's](Mahoyo/Chapter3.md)  
@@ -36,9 +39,9 @@ Currently, sub-titles are not labeled, the entire chapter is dumped onto a page.
 * [Chapter 11: WITCH ON THE HOLY NIGHT I](Mahoyo/Chapter11.md)  
 * [Chapter 12: WITCH ON THE HOLY NIGHT II](Mahoyo/Chapter12.md)  
 * [Chapter 13: A tale of the star](Mahoyo/Chapter13.md)  
-  
-## Extra  
+
+
+## 番外篇 
 
 * [The Wonderful World of Ploys](Mahoyo/Extra/Ploys.md)  
 * [The Honey Adventure](Mahoyo/Extra/HoneyAdventure.md)  
-* Anyone Can Sleep, But Not Laugh ~ Unavailable.   
